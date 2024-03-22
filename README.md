@@ -1,3 +1,4 @@
-# Schedule
 <h1 align="center">Schedule</a> 
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Exercise:</h3>
+<h2 align="center">Implement the program specified in the option using Windows Form technology. Be sure to use menus and toolbars. Provide for all exceptional situations.
+Create an application for creating a group lesson schedule. Provide the ability to create groups.</h2>
