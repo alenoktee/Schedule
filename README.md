@@ -3,7 +3,7 @@
 <p align="left">Программа была разработана за 3 дня с учётом переключения на другие дисциплины в колледже помимо этой. Для хранения данных использовались XML-файлы. Целью было сделать простой проект, соответствующий требованиям лабораторной работы.</p>
 <div style="display: flex;">
   <div>
-    <img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Main.png" width="50%" height="35%"></img>
+    <img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Main.png" width="40%" height="28%"></img>
   </div>
   <div>
     <img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Edit.png" width="28%" height="30%"></img>
