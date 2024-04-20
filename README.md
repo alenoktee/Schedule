@@ -1,8 +1,15 @@
 <h3 align="left">Задание:</h3>
 <p align="left">Реализовать программу, указанную в варианте используя технологию Windows Form. Обязательно использовать меню и панели инструментов. Предусмотреть все исключительные ситуации.<br>Создать приложение для создания расписания занятий групп. Предусмотреть возможность создавать группы.</p>
 <p align="left">Программа была разработана за 3 дня с учётом переключения на другие дисциплины в колледже помимо этой. Для хранения данных использовались XML-файлы. Целью было сделать простой проект, соответствующий требованиям лабораторной работы.</p>
-<img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Main.png" width="50%" height="35%"></img>
-<img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Edit.png" width="28%" height="30%"></img>
+<div style="display: flex;">
+  <div>
+    <img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Main.png" width="50%" height="35%"></img>
+  </div>
+  <div>
+    <img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Edit.png" width="28%" height="30%"></img>
+  </div>
+  <div>Третий элемент</div>
+</div>
 <p align="left"><b>Внимание! Для корректной работы программы нужны файлы хмл, которые находятся в архиве "бин.зип", который нужно предварительно распаковать.</b>b></p>
 <hr>
 <h3 align="left">Exercise:</h3>
