@@ -10,5 +10,5 @@ The program was developed in 3 days, taking into account switching to other disc
 <img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Main.png" width="55%"></img>
 <img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Edit.png" width="40%"></img>
 
-<img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Delete.png" width="30%"></img>
 <img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Add.png" width="30%"></img>
+<img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Delete.png" width="30%"></img>
