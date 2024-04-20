@@ -8,7 +8,7 @@ Implement the program specified in the option using Windows Form technology. Be 
 The program was developed in 3 days, taking into account switching to other disciplines in the college besides this one. For convenient data storage, XML files, datatables and datagridview were used. The goal was to make a simple project that would meet the requirements of the lab.
 
 <img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Main.png" width="50%"></img>
-<img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Edit.png" width="34%"></img>
+<img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Edit.png" width="45%"></img>
 
 <img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Delete.png" width="40%"></img>
 <img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Add.png" width="40%"></img>
