@@ -10,8 +10,9 @@ The program was developed in 3 days, taking into account switching to other disc
 ![Скриншот](https://github.com/alenoktee/Schedule/blob/master/Main.png "Главная форма")
 ![Скриншот](https://github.com/alenoktee/Schedule/blob/master/Edit.png "Изменение расписания")
 
-'''c#
 
+'''c#
+    
 private DataTable time()
 {
     XDocument loadedData = XDocument.Load("time.xml");
