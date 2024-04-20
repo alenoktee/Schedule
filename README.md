@@ -12,6 +12,7 @@ The program was developed in 3 days, taking into account switching to other disc
 <img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Edit.png" width="34%" height="40%"></img>
 
 '''
+
 private DataTable time()
 {
     XDocument loadedData = XDocument.Load("time.xml");
@@ -28,4 +29,5 @@ private DataTable time()
 
     return dt;
 }
+
 '''
