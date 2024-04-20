@@ -11,23 +11,19 @@ The program was developed in 3 days, taking into account switching to other disc
 ![Скриншот](https://github.com/alenoktee/Schedule/blob/master/Edit.png "Изменение расписания")
 
 
-'''c#
-    
-private DataTable time()
-{
-    XDocument loadedData = XDocument.Load("time.xml");
-
-    DataTable dt = new DataTable();
-    dt.Columns.Add("Время");
-
-    foreach (XElement xelement in loadedData.Element("root").Elements())
+    private DataTable time()
     {
-        DataRow row = dt.NewRow();
-        row["Время"] = xelement.Value;
-        dt.Rows.Add(row);
+        XDocument loadedData = XDocument.Load("time.xml");
+    
+        DataTable dt = new DataTable();
+        dt.Columns.Add("Время");
+    
+        foreach (XElement xelement in loadedData.Element("root").Elements())
+        {
+            DataRow row = dt.NewRow();
+            row["Время"] = xelement.Value;
+            dt.Rows.Add(row);
+        }
+    
+        return dt;
     }
-
-    return dt;
-}
-
-'''
