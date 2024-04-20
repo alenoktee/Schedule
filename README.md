@@ -8,7 +8,7 @@ Implement the program specified in the option using Windows Form technology. Be 
 The program was developed in 3 days, taking into account switching to other disciplines in the college besides this one. XML files were used to store data. The goal was to make a simple project that would meet the requirements of the lab.
 
 ![Изображение](https://github.com/alenoktee/Schedule/blob/master/Main.png "Логотип Markdown")
-![Изображение]([https://github.com/alenoktee/Schedule/blob/master/Main.png](https://github.com/alenoktee/Schedule/blob/master/Edit.png) "Логотип Markdown")
+![Изображение](https://github.com/alenoktee/Schedule/blob/master/Edit.png "Логотип Markdown")
 
 '''c#
 
