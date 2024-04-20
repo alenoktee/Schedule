@@ -22,3 +22,7 @@ Then, when editing and saving the schedule, the program reads all lines from the
 
 Whenever groups or schedules change (within the application), the main form is updated.
 
+
+---
+
+<p align="center">I would be grateful if you write your opinion about the project! ☺️</p>
